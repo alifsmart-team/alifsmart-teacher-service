@@ -1,7 +1,14 @@
 # alifsmart-teacher-dash
 
-# this service ran a function as :
-- Teacher & Class Management
-- Task CRUD
-- Manual Assessment
-- Communicate With Parent
+# function :
+- Pembuatan dan Penilian Tugas
+- Manajemen Kelas
+
+# database :
+- teachers -> profil guru
+- classes -> data kelas
+- assignments -> tugas yang dibuat
+- tracing_results -> hasil tracing dan nilai
+
+# dashboard :
+- Guru
