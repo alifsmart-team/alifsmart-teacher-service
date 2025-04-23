@@ -10,5 +10,5 @@
 - assignments -> tugas yang dibuat
 - tracing_results -> hasil tracing dan nilai
 
-# dashboard :
+# dashboard allocation :
 - Guru
