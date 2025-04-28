@@ -4,7 +4,7 @@
 - Pembuatan dan Penilian Tugas
 - Manajemen Kelas
 
-# database :
+# tables :
 - teachers -> profil guru
 - classes -> data kelas
 - assignments -> tugas yang dibuat
